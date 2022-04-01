@@ -1,0 +1,35 @@
+li{
+    list-style: none;
+    
+}
+
+.main{
+    width: 100vw;
+}
+
+.header>nav  {
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+ul{
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+
+
+
+
+
+
+.container{
+    display: flex;
+}
+
+.footer{
+    background-color: black;
+    color: beige;
+}
